@@ -28,7 +28,7 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/[email protected]
               with:
-                  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # secret 中设置好私钥
                   EXTERNAL_REPOSITORY: sub-chandra/sub-chandra.github.io
                   PUBLISH_BRANCH: master
                   PUBLISH_DIR: ./public
