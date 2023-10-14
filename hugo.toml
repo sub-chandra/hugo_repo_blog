@@ -1,4 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sub-chandra.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Chandrasekhar's Blog'
 theme = 'ananke'
+paginate = 10
+
+# home/category/tag 页面用于摘要的字数 (Default: 70)
+summaryLength = 50
+
+# 顶部栏
+[[menu.navbar]]
+  name = "Home"
+  url = "https://sub-chandra.github.io/"
