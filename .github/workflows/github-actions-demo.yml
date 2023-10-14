@@ -3,9 +3,9 @@ name: Hugo Auto Push
 on:
     push:
     workflow_dispatch:
-    schedule:
-        # Runs everyday at 8:00 AM
-        - cron: "0 0 * * *"
+    # schedule:
+    #     # Runs everyday at 8:00 AM
+    #     - cron: "0 0 * * *"
 
 jobs:
     build:
@@ -13,9 +13,9 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/[email protected]
-              with:
-                  submodules: false
-                  fetch-depth: 0
+              # with:
+              #     submodules: false
+              #     fetch-depth: 0
 
             - name: Setup Hugo
               uses: peaceiris/[email protected]
