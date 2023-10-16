@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = "Chandrasekhar's Blog"
 theme = 'ananke'
 
+# home/category/tag 页面用于摘要的字数 (Default: 70)
+summaryLength = 50
+
+# 顶部栏
+[[menu.navbar]]
+  name = "Home"
+  url = "https://sub-chandra.github.io/"
+
 [params]
   text_color = ""
   author = ""
