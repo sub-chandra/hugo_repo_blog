@@ -1,0 +1,74 @@
+baseURL = 'https://sub-chandra.github.io/'
+languageCode = 'en-us'
+title = "Chandrasekhar's Blog"
+theme = 'stack'
+hasCJKLanguage = true  # 加载中文
+# DefaultContentLanguage = "zh"
+# SectionPagesMenu = "main"
+# home/category/tag 页面用于摘要的字数 (Default: 70)
+summaryLength = 100
+
+
+[params]
+  mainSections = ["posts"]
+  featuredImageField  = ""
+  rssFullContent = true
+  text_color = ""
+  author = "Chandrasekhar"
+  favicon = "/images/icon-astronomy-96.png"
+  site_logo = ""
+  description = "Record Life"
+
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-blue"
+  recent_posts_number = 10
+  # show_reading_time = true  # Reading Time and Word Count
+
+  [params.article]
+    math = true
+    toc = true
+    readingTime = true
+
+
+  [params.dateFormat]
+    published = 'Jan 02, 2006'
+    lastUpdated = 'Jan 02, 2006 1504 MST'
+
+  [params.sidebar]
+  compact = false
+
+    [params.sidebar.avatar]
+    enabled = true
+    local = false
+    src = '/images/src.png'
+
+  [params.widgets]
+    homepage = [ ]
+    page = [ ]
+
+
+  [params.opengraph.twitter]
+    site = "ChandraOpenAcc"
+    card = 'summary_large_image'
+  [params.opengraph.github]
+    site="https://github.com/sub-chandra"
+
+
+
+
+  # You can replace the title of your site in the top left corner of each page with your own logo. To do that put your own logo into the static directory of your website, and add the site_logo parameter to the site params in your config file.
+  # site_logo = "img/logo.svg"
+  # commentoEnable = true
+
+  
+
+
+#[[params.ananke_socials]]
+# name = "twitter"
+# url = "https://twitter.com/ChandraOpenAcc"
+#  label = "TND Twitter"
+#[[params.ananke_socials]]
+#  name = "github"
+#  url = "https://github.com/sub-chandra"
+#  color = '#ff6800'
+

@@ -1,7 +1,7 @@
 baseURL = 'https://sub-chandra.github.io/'
 languageCode = 'en-us'
 title = "Chandrasekhar's Blog"
-theme = 'ananke'
+theme = 'stack'
 hasCJKLanguage = true  # 加载中文
 # DefaultContentLanguage = "zh"
 SectionPagesMenu = "main"
@@ -27,8 +27,17 @@ summaryLength = 100
 
   # You can replace the title of your site in the top left corner of each page with your own logo. To do that put your own logo into the static directory of your website, and add the site_logo parameter to the site params in your config file.
   # site_logo = "img/logo.svg"
+  # commentoEnable = true
 
   
+
+[params.sidebar]
+  # Optional about block for sidebar (can be Markdown)
+  about = "我的博客[简单示例](https://sub-chandra.github.io/)."
+
+  # 侧边栏显示最近几条文章 (Default: 5)
+  #num_recent_posts = 5
+
 [[params.ananke_socials]]
   name = "twitter"
   url = "https://twitter.com/ChandraOpenAcc"
@@ -37,3 +46,4 @@ summaryLength = 100
   name = "github"
   url = "https://github.com/sub-chandra"
   color = '#ff6800'
+
