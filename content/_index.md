@@ -1,6 +1,6 @@
 ---
 title: "Chandrasekhar's Blog"
-description: "."
+description: "Record Life"
 cascade:
   featured_image: '/images/Ananke-Default-Image.jpg'
 ---
