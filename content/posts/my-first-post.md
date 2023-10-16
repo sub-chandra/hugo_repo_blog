@@ -1,6 +1,6 @@
 +++
-title = 'My First Post'
-date = 2023-10-13T21:02:59+08:00
+title: 'My First Post'
+date: 2023-10-13T21:02:59+08:00
 
 +++
 
