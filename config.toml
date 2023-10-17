@@ -16,12 +16,12 @@ summaryLength = 100
   text_color = ""
   author = "Chandrasekhar"
   favicon = "/images/icon-astronomy-96.png"
-  site_logo = ""
+  # site_logo = ""
   description = "Record Life"
 
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-blue"
-  recent_posts_number = 3
+    background_color_class = "bg-blue"
+    recent_posts_number = 3
   # show_reading_time = true  # Reading Time and Word Count
 
   [params.article]
@@ -35,30 +35,48 @@ summaryLength = 100
     lastUpdated = 'Jan 02, 2006 1504 MST'
 
   [params.sidebar]
-  compact = false
+    compact = false
+    subtitle = "Record life. Share life."
 
-    [params.sidebar.avatar]
+  [params.sidebar.avatar]
     enabled = true
     local = false
     src = '/images/src.png'
 
+  [params.opengraph]
+    [params.opengraph.twitter]
+      site = 'ChandraOpenAcc'
+      card = 'summary'
+
   [params.widgets]
-    homepage = [ ]
-    page = [ ]
+    homepage = [{type='search'},{type='archives',params={limit=6}},{type='categories',params={limit=8}},{type='tag-cloud',params={limit=8}}]
+    page = [{type='search'},{type='toc'} ]
+
+  [params.Footer]
+    since = 2023
+
+[menu]
+ [[menu.social]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/sub-chandra"
+
+    [menu.social.params]
+    icon = "brand-github"
+
+  [[menu.social]]
+  identifier = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/ChandraOpenAcc"
+
+    [menu.social.params]
+    icon = "brand-twitter"
 
 
-  [params.opengraph.twitter]
-    site = "ChandraOpenAcc"
-    card = 'summary_large_image'
-  [params.opengraph.github]
-    site="https://github.com/sub-chandra"
 
-
-
-
-  # You can replace the title of your site in the top left corner of each page with your own logo. To do that put your own logo into the static directory of your website, and add the site_logo parameter to the site params in your config file.
-  # site_logo = "img/logo.svg"
-  # commentoEnable = true
+# You can replace the title of your site in the top left corner of each page with your own logo. To do that put your own logo into the static directory of your website, and add the site_logo parameter to the site params in your config file.
+# site_logo = "img/logo.svg"
+# commentoEnable = true
 
   
 

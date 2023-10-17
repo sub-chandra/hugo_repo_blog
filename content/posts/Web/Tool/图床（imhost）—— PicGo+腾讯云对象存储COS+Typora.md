@@ -2,8 +2,12 @@
 title: ' 图床（imhost）—— PicGo+腾讯云对象存储COS+Typora'
 date: 2023-10-17T10:59:04+08:00
 image: ""
-tags:  ["Note","Web","Tool","Tutorial"]
+tags:  ["PicGo","COS","imhost"]
 description:  'Web 工具使用技巧'
+categories: 
+    - "Tutorial"
+    - "Web"
+    - "Tool"
 ---
 
 # 图床（imhost）—— PicGo+腾讯云对象存储COS+Typora
