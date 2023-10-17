@@ -2,10 +2,9 @@
 title: ' 图床（imhost）—— PicGo+腾讯云对象存储COS+Typora'
 date: 2023-10-17T10:59:04+08:00
 image: ""
-tags:  ["PicGo","COS","imhost"]
+tags:  ["PicGo","COS","imhost","Tutorial"]
 description:  'Web 工具使用技巧'
 categories: 
-    - "Tutorial"
     - "Web"
     - "Tool"
 ---
@@ -51,7 +50,10 @@ categories:
 
 -----
 参考链接🔗
-[腾讯云COS对象存储+PicGo搭建图床教程](https://blog.csdn.net/qq_41684621/article/details/114128635?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-114128635-blog-109720624.pc_relevant_paycolumn_v3&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
-[使用PicGo+腾讯云做图床](https://blog.csdn.net/qq_38576299/article/details/109720624?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-109720624-blog-121218444.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-109720624-blog-121218444.pc_relevant_paycolumn_v3&utm_relevant_index=2)
-[PicGo和腾讯COS搭建图床](https://blog.csdn.net/weixin_44593310/article/details/123910255)
-[手把手教你用Typora自动上传到picgo图床【教程与排坑】](https://www.jianshu.com/p/4cd14d4ceb1d)
+
+- [腾讯云COS对象存储+PicGo搭建图床教程](https://blog.csdn.net/qq_41684621/article/details/114128635?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-114128635-blog-109720624.pc_relevant_paycolumn_v3&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
+- [使用PicGo+腾讯云做图床](https://blog.csdn.net/qq_38576299/article/details/109720624?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-109720624-blog-121218444.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-109720624-blog-121218444.pc_relevant_paycolumn_v3&utm_relevant_index=2)
+
+- [PicGo和腾讯COS搭建图床](https://blog.csdn.net/weixin_44593310/article/details/123910255)
+
+- [手把手教你用Typora自动上传到picgo图床【教程与排坑】](https://www.jianshu.com/p/4cd14d4ceb1d)

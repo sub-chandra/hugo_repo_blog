@@ -2,12 +2,11 @@
 title: ' Python： 语法糖'
 date: 2023-10-17T10:59:04+08:00
 image: ""
-tags:  ["skill","Python"]
+tags:  ["skill","Python",sssss"Tutorial"]
 description:  'Python 语法笔记'
 categories: 
-   - "Tutorial"
    - "CodeLanguage"
-   - "Python"
+
    
 ---
 
