@@ -2,7 +2,7 @@
 title: '读博日记 0：写在前面的话'
 date: 2023-10-16T16:59:04+08:00
 image: "/images/phd_note/nju_north.jpg"
-tags:  ["note","life"]
+tags:  ["Note","life"]
 description:  '记录读博生涯的随想集'
 ---
 
