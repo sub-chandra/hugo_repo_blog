@@ -6,13 +6,11 @@ tags:  ["skill","Python",sssss"Tutorial"]
 description:  'Python 语法笔记'
 categories: 
    - "CodeLanguage"
-
-   
 ---
 
 
-
-# Python 语法糖
+> 本文只包含部分内容，后续待完善。
+> 本文叙事风格为备忘录形式，而不是教程，适合有一定 `Python` 基础者阅读，后续考虑改变行文叙事，使其适合初学者。
 
 ##  装饰器
 
