@@ -4,6 +4,7 @@ date: 2023-10-17T10:59:04+08:00
 image: ""
 tags:  ["skill","Python","Tutorial"]
 description:  'Python 语法笔记'
+lastmod: '2023-10-17'
 categories: 
    - "CodeLanguage"
 ---
