@@ -5,6 +5,7 @@ image: ""
 tags: ["web","Hugo","Blog"]
 description:  'Hugo 教程贴：环境设置、主题设置、创建并发布网页'
 draft: true
+lastmod: 2023-10-17T18:59:04+08:00
 categories: 	
     - "Skill"
     - "Software"
