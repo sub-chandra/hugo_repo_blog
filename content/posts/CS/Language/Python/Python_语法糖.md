@@ -1,10 +1,10 @@
 ---
 title: ' Python： 语法糖'
-date: 2023-10-17T10:59:04+08:00
+date: 2023-03-17T10:59:04+08:00
 image: ""
 tags:  ["skill","Python","Tutorial"]
 description:  'Python 语法笔记'
-lastmod: 2023-10-17T10:59:04+08:00
+lastmod: 2023-10-17T12:59:04+08:00
 categories: 
    - "CodeLanguage"
 ---
