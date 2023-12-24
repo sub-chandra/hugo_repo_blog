@@ -5,7 +5,6 @@ image: ""
 tags: ["learning_note","electrodynamics","physics"]
 description:  '课程笔记：电动力学知识点总结'
 lastmod: 2023-10-24T15:39:04+08:00
-draft: true
 categories: 	
     - "Academy"
     - "LearningNote"

@@ -5,7 +5,6 @@ image: ""
 tags: ["learning_note","electrodynamics","physics","light"]
 description:  ' '
 lastmod: 2023-10-24T15:39:04+08:00
-draft: true
 categories: 	
     - "Academy"
     - "LearningNote"
