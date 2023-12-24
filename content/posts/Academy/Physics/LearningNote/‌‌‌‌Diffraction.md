@@ -17,7 +17,7 @@ categories:
 
 ## 一、定义
 
-**1.衍射：**波在传播过程中遇到障碍物偏离几何路径传播（进入几何阴影区）的现象。$\rightarrow$ 和干涉同时存在  $\rightarrow$  是==一切波动==固有的特性
+**1.衍射** 波在传播过程中遇到障碍物偏离几何路径传播（进入几何阴影区）的现象。$\rightarrow$ 和干涉同时存在  $\rightarrow$  是==一切波动==固有的特性
 
 **2.衍射屏和屏函数**： $\tilde{E_i} \ \rightarrow \ 衍射屏\  \rightarrow \ \tilde{E_t}$ 
 
@@ -37,9 +37,9 @@ categories:
 
 ### 惠更斯-菲涅尔原理
 
-**含义：**波前上的每一个面元都可以看作是一个次级扰动中心，它们能产生球面子波。后一时刻的波前的位置是所有这些子波前的包络面
+**含义：** 波前上的每一个面元都可以看作是一个次级扰动中心，它们能产生球面子波。后一时刻的波前的位置是所有这些子波前的包络面
 
-**相干叠加：**P点的振动是次波对P点的相干叠加的结果，波前$\Sigma$ 上任一点的复振幅：$E_Q=A\frac{exp(ikR)}{R}$ ，Q处小面元$d\sigma$ 发出的子波：$K(\theta)CE_Q d\sigma \frac{exp(ikRr)}{r}$
+**相干叠加：** P点的振动是次波对P点的相干叠加的结果，波前$\Sigma$ 上任一点的复振幅：$E_Q=A\frac{exp(ikR)}{R}$ ，Q处小面元$d\sigma$ 发出的子波：$K(\theta)CE_Q d\sigma \frac{exp(ikRr)}{r}$
 
 则$P$点的复振幅：
 $$
@@ -56,7 +56,7 @@ $$
 E(P)=\frac{1}{i\lambda} \iint\limits_\Sigma \frac{Aexp(ikl)}{l}\frac{exp(ikr)}{r}\frac{\cos \alpha_1+\cos \alpha_2}{2}d\sigma
 $$
 
-**近似-1：**光源离开孔足够远 $\to$ 入射光视为垂直入射 $\to\ \cos \alpha_1=1,\cos \alpha_2=\cos \theta \to\ K(\theta)=\frac{1+\cos \theta}{2}$  
+**近似-1：** 光源离开孔足够远 $\to$ 入射光视为垂直入射 $\to\ \cos \alpha_1=1,\cos \alpha_2=\cos \theta \to\ K(\theta)=\frac{1+\cos \theta}{2}$  
 
 - $\theta=0,K(\theta)=1 \to\ 波面法线法线方向上子波的振幅最大$
 - $\theta=\pi,K(\theta)=0\to\ 证明菲涅尔关于\theta=\frac{\pi}{2}时K(\theta)=0的结论时错误的$
